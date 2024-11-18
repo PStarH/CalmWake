@@ -10,6 +10,15 @@ The **CalmWake Clock** is the ultimate bedside companion designed to transform y
 - **User-Friendly Interface**: Intuitive design ensures ease of use for all age groups.
 - **Responsive Design**: Seamless experience across different devices and screen sizes.
 
+## Demo
+
+Experience CalmWake in action:
+
+- **Live Demo**: [https://calm-wake.vercel.app/](https://calm-wake.vercel.app/)
+- **Screenshots**:
+    ![CalmWake Screenshot 1](./screenshot.png)
+    ![CalmWake Screenshot 2](./screenshot1.png)
+
 ## Installation
 
 1. **Clone the Repository**
